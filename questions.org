@@ -1,20 +1,36 @@
 * Dig deeper. Provide answers to the following questions:
 
 == I. The project's IRC Channel ==
+ - http://webchat.freenode.net/?&channels=krita
+ - Also available at: https://krita.org/en/irc/
 
 == II Source Code repository ==
+ - Main Repository: https://phabricator.kde.org/source/krita/
+ - GitHub mirror: https://github.com/KDE/krita
 
 == III. Mail list archive ==
+ - https://mail.kde.org/pipermail/kimageshop/. Note that the mailing list is under the previous name of krita, KImageShop.
 
 == IV. Documentation ==
+ - API documentation: https://api.kde.org/extragear-api/graphics-apidocs/krita/html/index.html
+ - Documentation for users: https://docs.krita.org/en/
+ - Bug tracking documentation: https://docs.krita.org/en/untranslatable_pages/reporting_bugs.html
+ - Addtionally, Krita's "Get Involved" page (https://krita.org/en/get-involved/overview/) provides links to other sections of documentation on how to contribute to various areas. Since Krita is a KDE project, most of the documentation is found in those pages instead of pages specific to Krita, such as KDE's development documentation (https://community.kde.org/Get_Involved/development).
 
 == V. Other communication channels ==
+ - Another active form of communication for the Krita project is through the Krita forums: https://forum.kde.org/viewforum.php?f=136.
+ - Krita is also active on many different social media platforms either through communities or a profile run by the KDE foundation. Platforms include: Reddit, Twitter, Google Plus, Deviant Art, Facebook, VK, and Mastadon.
+ - There is also a Q&A forum: https://ask.krita.org/
 
 == VI. Project Website and/or Blog ==
+ - Website: https://krita.org/en/
+ - News / Blog: https://krita.org/en/?post_type=post&s=
 
 == A. Describe software project, its purpose and goals. ==
+ - Krita aims to be a free and open-source digital painting and illustration application similar to Corel Painter. It intends to be a powerful professional tool that is supported by and supports open standards. Krita's openess is also intended to make development influenced by users in order to "support their actual needs and workflow."
 
 == B. Give brief history of the project. When was the Initial Commit? The latest commit? ==
+ - Krita's origins start in 1998, with Mattias Ettrich building a Qt GUI around GIMP as a showcase of the ease of development. Eventually, the KDE project started to develop their own image editor, similar to photoshop or GIMP, called KImageShop, with the first commit being pushed on June 8th, 1999. From 2004-2009, the project was focused on image editing, but after 2009, the focus shifted to digital painting. Since Krita has very active development, commits are constantly being merged, meaning the repository is always up to date.
 
 == C. Who approves patches? How many people? ==
  - Krita developers approve patches on KDE's Phabricator. Anyone who submits 3 patches is eligible for developer status.
@@ -38,7 +54,7 @@
   - Krita developers are full stack. As explained on https://krita.org/en/get-involved/developers/, "To work on Krita, you have to use C++ and Qt. It’s a good way to learn both, actually!"
 
 == J. What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair? ==
-  - Searching on https://bugs.kde.org with "product:krita severity:critical"  only produced one big bug, an undo/redo bug that causes data loss: https://bugs.kde.org/show_bug.cgi?id=397836 This was opened last August and confirmed, but so far has not been addressed.
+  - Searching on https://bugs.kde.org with "product:krita severity:critical" only produced one big bug, an undo/redo bug that causes data loss: https://bugs.kde.org/show_bug.cgi?id=397836 This was opened last August and confirmed, but so far has not been addressed.
 
 == K. How is the project's participation trending and why? ==
 
