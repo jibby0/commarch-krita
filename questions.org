@@ -57,17 +57,18 @@
   - Searching on https://bugs.kde.org with "product:krita severity:critical" only produced one big bug, an undo/redo bug that causes data loss: https://bugs.kde.org/show_bug.cgi?id=397836 This was opened last August and confirmed, but so far has not been addressed.
 
 == K. How is the project's participation trending and why? ==
-
+  - Looking at most of the recent submissions to the project, there is still a fairly good amount of people contributing almost everyday.
 == L. In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not? ==
-
+  - Based on our results from GBAB, I feel like this project would survive, even though the top contributor's risk is about 30% which is a large chunk, I don't think the project would die.
 == M. In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not? ==
-
+  - Again, based on the results from GBAB, I feel like the project would most likely not survive the top 20% of contributors were to leave, just on the graph that shows the top 25, if the top 5 were to leave that would account for around 75% of the contributions.
 == N. Does the project have an official "on-boarding" process in place? (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...) ==
-
+  - Yes, on the Krita website there is a page specifically for getting involved, explaining that a good place to start are some of the 'Junior Jobs', as well as pointing new contributors towards helpful resources and a basic overview of the project.
 == O. Does the project have Documentation available? How extensive is it? Does it include code examples? ==
-
+  - As far as use of the program, the documentation is very extensive and includes many tutorials and explanation of concepts in the program. Development documentation also has a very extensive guide complete with code examples.
 == P. If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how? ==
-
+  - I would probably try to contact someone on the contributors manual page, they list 7 people that are almost always around on the IRC channel to help out.
 == Q. Based on these answers, how would you describe the decision making structure/process of this group? Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals? ==
-
+  - From what I've seen it seems that the small group that contributes the most ends up making most decisions but also looks for ideas from the rest of the community.
 == R. Is this the kind of structure you would enjoy working in? Why, or why not? ==
+  - It seems like it would be a project we would enjoy working on, it is a well documented project with many members willing to help new contributors.
